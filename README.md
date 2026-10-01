@@ -27,7 +27,7 @@ El juego cuenta con diferentes niveles y mecánicas que aumentan la dificultad c
 - **Unity Physics**
 - **Visual Studio / Visual Studio Code**
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 BrickBreacker/
@@ -41,7 +41,7 @@ BrickBreacker/
 └── README.md
 ```
 
-## 🚀 Ejecución
+## Ejecución
 
 Para ejecutar el proyecto:
 
